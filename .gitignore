@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+models/
+output/
+*.log
+*.db
+*.ipynb_checkpoints/
+*.egg-info/
+*.cache/
+.env
+nltk_data/

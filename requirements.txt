@@ -1,0 +1,28 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+joblib
+scipy
+# Text preprocessing & NLP
+nltk
+tqdm
+
+# Transformers & embeddings
+sentence-transformers
+transformers
+torch
+
+# PDF text extraction (if needed)
+PyMuPDF
+
+# JSON handling and saving
+orjson
+
+# For reproducibility & logging (optional)
+matplotlib
+seaborn
+
+
+# For JSON + CLI utils
+tqdm==4.66.4
